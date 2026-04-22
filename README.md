@@ -135,7 +135,7 @@ My current goal is to further develop hands-on skills in data analysis, computat
 ## Contact
 **Name:** Can Xu  
 **Email:** 13510993834@163.com  
-**Location:** Shanghai, China
+**Location:** Shanghai & Shenzhen, China
 
 ---
 
